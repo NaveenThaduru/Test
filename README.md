@@ -20,4 +20,4 @@ Update Soon..............
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Image](https://github.com/user-attachments/assets/05181f2f-e9cc-4dcd-8019-4987916014e5)
+![Image](https://github.com/user-attachments/assets/26c6ca98-6687-4f52-8850-80be00633f33)
