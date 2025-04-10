@@ -12,6 +12,11 @@ Update soon...............
 Update Soon..............
 
 
+# Snapshot of Dashboard (Power BI Service)
+
+![Image](https://github.com/user-attachments/assets/f54e5504-e76f-4334-b53f-45ee859231d9)
+
+
  # Report Snapshot (Power BI DESKTOP)
 
  
