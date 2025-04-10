@@ -1,6 +1,6 @@
 # Report of Indian Cricket Team Player ODI Information
 
-### Dashboard Link : https://app.powerbi.com/groups/f6e9151e-e0f7-413f-b02c-b6e68e3ccff1/reports/c6bf08fb-aa0c-4edc-a77b-f8f5c1a78d65/fe4991b034e33bd50104?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/links/DX8WBsqzYT?ctid=f71de771-a178-47de-914c-79164be07ca5&pbi_source=linkShare&bookmarkGuid=bb7baaea-cdeb-4457-b855-6ea86bbb795f
 
 ## Problem Statement
 
