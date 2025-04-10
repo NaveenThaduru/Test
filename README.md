@@ -1,4 +1,4 @@
-# Report of Indian Cricket Team Player ODI Information
+# Blue vs Gold: India’s ODI Player Highlights
 
 ### Dashboard Link : "https://app.powerbi.com/view?r=eyJrIjoiNWVlYzFmYWUtNGU4Yy00ZDZmLWI1MjUtNzM5MzhkNWFkNGUzIiwidCI6ImY3MWRlNzcxLWExNzgtNDdkZS05MTRjLTc5MTY0YmUwN2NhNSJ9" 
 
