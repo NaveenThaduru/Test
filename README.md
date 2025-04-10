@@ -1,6 +1,6 @@
 # Report of Indian Cricket Team Player ODI Information
 
-### Dashboard Link : <iframe title="India Vs Australia ODIs" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWVlYzFmYWUtNGU4Yy00ZDZmLWI1MjUtNzM5MzhkNWFkNGUzIiwidCI6ImY3MWRlNzcxLWExNzgtNDdkZS05MTRjLTc5MTY0YmUwN2NhNSJ9" frameborder="0" allowFullScreen="true"></iframe>
+### Dashboard Link : "https://app.powerbi.com/view?r=eyJrIjoiNWVlYzFmYWUtNGU4Yy00ZDZmLWI1MjUtNzM5MzhkNWFkNGUzIiwidCI6ImY3MWRlNzcxLWExNzgtNDdkZS05MTRjLTc5MTY0YmUwN2NhNSJ9" 
 
 ## Problem Statement
 
